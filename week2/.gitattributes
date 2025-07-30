@@ -2,3 +2,4 @@ Tree_Species_Dataset filter=lfs diff=lfs merge=lfs -text
 git[[:space:]]lfs[[:space:]]track[[:space:]]Tree_Species_Dataset
  filter=lfs diff=lfs merge=lfs -text
 basic_cnn_tree_species.h5 filter=lfs diff=lfs merge=lfs -text
+improved_cnn_model.h5 filter=lfs diff=lfs merge=lfs -text
